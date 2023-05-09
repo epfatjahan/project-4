@@ -1,0 +1,4 @@
+2023-05-09T14:44:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\project-4\wp-content\plugins\woo-cart-abandonment-recovery\modules\cart-abandonment\classes\class-cartflows-ca-email-templates.php on line 8
+
+2023-05-09T14:44:28+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\project-4\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\CheckoutBillingAddressBlock.php on line 15
+
